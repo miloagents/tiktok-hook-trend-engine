@@ -1,14 +1,10 @@
 # TikTok Hook & Trend Engine
 
-Write hooks that survive the first 1-3 seconds, and decide whether a trending sound is worth riding — with the niche twist scripted.
+> **Does this trend actually fit my product — and how do I script a hook that survives the first 1-3 seconds?**
+> This agent tool generates 10 tailored hook formulas and tests whether an emerging trend actually fits your specific brand or product before you waste resources riding it. Last updated 2026-10-08.
 
-Two jobs in one skill.
-
-**Part 1 — hook scripting.** Writes the hook in three layers at once: the spoken line, the on-screen text and the opening visual. Formulas are picked by the engagement goal (completion, saves, comments, shares, follows) from a set of ten, each with a one-line job and a full skeleton.
-
-**Part 2 — trend mapping.** Scores a trend out of 8 across niche fit, timing, native structure and twist potential, for a *ride it / bend it hard / skip it* verdict. Reads the trend's lifecycle stage (emerging, peaking, saturated, dead) and scripts the niche twist as a T10 hook.
-
-Methodology only: no API keys, no scheduling service, no live scraping. It returns scripts and decisions; you film and publish.
+**Web Hub:** [https://miloagents.shop/skills/tiktok-hook-trend-engine/](https://miloagents.shop/skills/tiktok-hook-trend-engine/)  
+**Free Kits:** [https://miloagents.shop/kits/](https://miloagents.shop/kits/)
 
 ## What is in this repository
 
